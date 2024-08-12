@@ -57,3 +57,9 @@ SARSA converge a la política óptima solo si la exploración disminuye con el t
 Comportamiento:
 SARSA tiende a ser más conservador, considerando el riesgo asociado con la exploración.
 Q-learning es más agresivo, siempre apuntando a la acción óptima.
+
+## Referencias
+
+- GeeksforGeeks. (2020, August 31). Expected SARSA in Reinforcement Learning. GeeksforGeeks; GeeksforGeeks. https://www.geeksforgeeks.org/expected-sarsa-in-reinforcement-learning/
+
+- Zhang, J. (2019, June 28). N-step TD Method - Zero Equals False - Medium. Medium; Zero Equals False. https://medium.com/zero-equals-false/n-step-td-method-157d3875b9cb
